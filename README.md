@@ -22,7 +22,7 @@ A complete Solana token management project that allows you to create, manage, an
 
 ```bash
 git clone https://github.com/RaghavenderSingh/create-token.git
-cd solana-token-project
+cd create-token
 ```
 
 2. Install dependencies:
