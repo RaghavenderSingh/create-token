@@ -21,7 +21,7 @@ A complete Solana token management project that allows you to create, manage, an
 1. Clone the repository:
 
 ```bash
-git clone <[your-repo-url](https://github.com/RaghavenderSingh/create-token.git)>
+git clone https://github.com/RaghavenderSingh/create-token.git
 cd solana-token-project
 ```
 
